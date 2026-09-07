@@ -1,5 +1,7 @@
 # Repository Rescue Challenge
 Devops Kalvium Ca 1
+This is the CA of Devops
+In this CA I have created two feature branch with commits and PR. where, I have given proper details in PR.
 
 ## Story
 
